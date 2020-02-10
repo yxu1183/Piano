@@ -43,13 +43,10 @@ void loop() {
     if(keys[i].capacitiveSensor(NUM_OF_SAMPLES) > CAP_THRESHOLD) {
       tone(BUZZER_PIN, notes[i]); // Plays the note corresponding to the key pressed
     }
-    else//If the capacitance reading is not greater than the threshold, do not play a note:
-    {
+    else {//If the capacitance reading is not greater than the threshold, do not play a note:
       noTone(BUZZER_PIN);
     }
-   
-   }
-    
+   }  
   }
     
     
