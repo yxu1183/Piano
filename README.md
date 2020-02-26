@@ -8,5 +8,8 @@ Piano project using an Arduino, Breadboard, Buttons, Aluminium Foil, and piezo s
 # What I learned 
 * Use of soldering tools, resistors, and jumper wires while connecting the foils together to Arduino.
 * Familiarization with the Arduino Integrated Development Environment and Arduino compatible boards.
+# Demonstration
+Youtube video demonstrating piano:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kImdsINyPRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
